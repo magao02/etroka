@@ -1,0 +1,11 @@
+{
+  "title": "Crie sua conta",
+  "description": "Já possui uma conta?",
+  "redirect": "Login",
+  "privacy": "Ao registrar-se você concorda com nossos",
+  "privacyredirect": "termos e política de privacidade",
+  "validations": {
+    "size": "A senha deve conter no mínimo seis caracteres.",
+    "password": "As senhas devem ser iguais."
+  }
+}

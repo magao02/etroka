@@ -1,0 +1,32 @@
+form {
+    width: 100%;
+    margin-top: 2em;
+}
+
+fieldset {
+    border: none;
+    margin: 0;
+    padding: 0;
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+
+[type="text"], [type="email"], [type="password"], [type="tel"], [type="date"], select, button {  
+    display: block;
+    width: 100%;
+    padding: 1.3em;
+    border: 0.35px solid #727171;
+    border-radius: 7px;
+}
+
+[type="text"], [type="email"], [type="password"], [type="tel"], [type="date"], select {
+    background-color: #F2F2F2;
+    margin: 1em auto;
+}
+
+[type="submit"] {
+    margin: 2em auto;
+    background-color: #4C0C6C;
+}
+
+.hide {
+    display: none;
+}

@@ -1,0 +1,28 @@
+{
+  "categories": {
+    "Produto": [
+      "Automóveis",
+      "Imóveis",
+      "Brinquedos",
+      "Celulares e Acessórios",
+      "Computadores e Acessórios",
+      "Roupas",
+      "Cama mesa e Banho",
+      "Eletrodomésticos",
+      "Livros"
+    ],
+
+    "Serviço": [
+      "Limpeza",
+      "Estética",
+      "Manutenções Auto",
+      "Serviços Eletricos",
+      "Construção",
+      "Arquitetura",
+      "Advocacia",
+      "Engenharia",
+      "Consultoria",
+      "Outros"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "E-TROKA",
+  "description": "E-TROKA sua nova plataforma de trocas inteligentes",
+  "placeholders": {
+    "email": "Exemplo@email.com.br",
+    "password": "Senha"
+  },
+  "forgotPassword": "Esqueci minha senha",
+  "loginButton": "Login",
+  "loginWithSocialNetwork": "Ou faça login com as redes sociais",
+  "facebookLogin": "Login com Facebook",
+  "googleLogin": "Login com Google",
+  "doesNotHaveAccount": "Você ainda não tem uma conta?",
+  "signUp": " Cadastre-se"
+}

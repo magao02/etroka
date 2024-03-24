@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "4n5pxq24kpiob12og9",
+      "announcements": [
+        {
+          "title": "Celta 2011",
+          "type": "Produto",
+          "description": "Celta Branco, completo",
+          "localization": "Campina Grande - Bahia",
+          "usage_time": "1 ano",
+          "images": [],
+          "created_at": "2021-12-06T14:47:19.574Z",
+          "update_at": "2021-12-06T14:47:19.574Z",
+          "id": "12ca91d4-9ab9-4d77-9ae2-e145fa72dca5"
+        }
+      ]
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Celta 2011",
+      "type": "Produto",
+      "description": "Celta Branco, completo",
+      "localization": "Campina Grande - Bahia",
+      "usage_time": "1 ano",
+      "images": [],
+      "created_at": "2021-12-06T14:47:19.574Z",
+      "update_at": "2021-12-06T14:47:19.574Z",
+      "id": "12ca91d4-9ab9-4d77-9ae2-e145fa72dca5"
+    },
+    {
+      "title": "teste",
+      "description": "teste",
+      "type": "Produto",
+      "localization": "João Pessoa - Bahia",
+      "usage_time": "teste",
+      "images": [
+        "blob:http://localhost:3000/63b4ecda-8372-43f9-828a-d3c4987b7dae",
+        "blob:http://localhost:3000/dd5f4f5f-f195-42d4-aa2c-4829f9f95a33",
+        null,
+        null,
+        null
+      ],
+      "id": "N-O66qW"
+    }
+  ],
+  "auth": []
+}

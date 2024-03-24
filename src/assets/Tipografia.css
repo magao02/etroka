@@ -1,0 +1,90 @@
+.H1 {
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 44px;
+  }
+  
+  .h1 {
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 49px;
+  }
+  
+  .H2 {
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+  }
+  
+  .H3 {
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+  }
+  
+  .action {
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 20px;
+  }
+  
+  .button {
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 20px;
+  }
+  
+
+  
+  .azul {
+    color: #0D4A99;
+  }
+  
+  .roxo1 {
+    color: #4E096B;
+  }
+  
+  .roxo2 {
+    color: #4C0C6C;
+  }
+  
+  .laranja {
+    color: #FC8404;
+  }
+  
+  .cinzaClaro {
+    color: #B9B7B7;
+  }
+  
+  .cinzaEscuro {
+    color: #727171;
+  }
+  
+  .vermelho {
+    color: #FF0000;
+  }
+  
+  .verde {
+    color: 23AC01;
+  }
+  
+  .branco {
+    color: #ffffff;
+  }
+  
+  .preto {
+    color: #000000;
+  }
+  
